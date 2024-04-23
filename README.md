@@ -2,6 +2,8 @@
 
 Display a mosaic of multiple videos on one screen.
 
+See the [Video Matrix](https://developer.synamedia.com/senza/docs/video-matrix) tutorial in the Senza developer documentation.
+
 ### Keys
 
 * Up: increase number of videos
